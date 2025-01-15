@@ -1,32 +1,23 @@
 
-# Project Title
+First-Project-Java-Spring
 
-A brief description of what this project does and who it's for
-
-first-project-java-spring
 
 Prosta aplikacja webowa w Javie, stworzona z użyciem Spring Boot, wyświetlająca personalizowaną wiadomość powitalną oraz obraz tła.
 
-Technologie 
+Technologie:
 
 Java: Główny język. 
 Spring Boot: Framework aplikacji webowej.
-
 Maven: Zarządzanie zależnościami. 
-
 Thymeleaf: Generowanie dynamicznych stron HTML. 
-
 Lombok: Redukcja kodu powtarzalnego.
 
 
  Funkcje Wyświetlanie personalizowanego powitania. Obraz tła na stronie. Personalizacja wiadomości przez parametr name w URL. 
  
  Wymagania Java 17 lub nowsza. Maven.
-  
-  
-  1.Instalacja git clone 
-  
-  https://github.com/your-username/first-project-java-spring.git cd first-project-java-spring 
+   
+  1.Instalacja git clone https://github.com/your-username/first-project-java-spring.git cd first-project-java-spring 
   
   2.Zbuduj projekt: mvn clean install 
   
