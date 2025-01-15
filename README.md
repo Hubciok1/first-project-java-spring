@@ -13,7 +13,7 @@ Thymeleaf: Generowanie dynamicznych stron HTML.
 Lombok: Redukcja kodu powtarzalnego.
 
 
- Funkcje Wyświetlanie personalizowanego powitania. Obraz tła na stronie. Personalizacja wiadomości przez parametr name w URL. 
+ Funkcje: Wyświetlanie personalizowanego powitania. Obraz tła na stronie. 
  
  Wymagania Java 17 lub nowsza. Maven.
    
