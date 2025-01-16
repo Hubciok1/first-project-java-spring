@@ -17,11 +17,11 @@ Lombok: Redukcja kodu powtarzalnego.
  
  Wymagania Java 17 lub nowsza. Maven.
    
-  1.Instalacja git clone https://github.com/your-username/first-project-java-spring.git cd first-project-java-spring 
+  1.Instalacja: git | clone https://github.com/your-username/first-project-java-spring.git cd first-project-java-spring  |
   
-  2.Zbuduj projekt: mvn clean install 
+  2.Zbuduj projekt: | mvn clean install  |
   
-  3.Uruchomienie: mvn spring-boot:run Aplikacja będzie dostępna pod adresem: http://localhost:8080.
+  3.Uruchomienie: | mvn spring-boot:run | Aplikacja będzie dostępna pod adresem: | http://localhost:8080. |
 
 4.Użycie:
 
